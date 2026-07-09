@@ -1,6 +1,6 @@
 # 🤖 DESMG Bot
 
-Welcome! This account is a **Human Managed Bot Account** for the **[DESMG](https://github.com/DESMG)** organization.
+This account is a **Human Managed Bot Account** for the **[DESMG](https://github.com/DESMG)** organization.
 
 ## About
 
@@ -17,13 +17,13 @@ Typical responsibilities include:
 
 ## Human Managed
 
-This is **not** an autonomous AI account.
+This account is owned and managed by [jyxjjj](https://github.com/jyxjjj) on behalf of the [DESMG](https://github.com/DESMG) organization. It is **not** an autonomous AI account.
 
-All credentials, permissions, and automation workflows are managed by authorized maintainers of the [DESMG](https://github.com/DESMG) organization.
+Its credentials, permissions, and automation workflows are managed by authorized [DESMG](https://github.com/DESMG) maintainers.
 
 ## Security
 
-If you believe this account has behaved unexpectedly or may have been compromised, please open a security report through the appropriate [DESMG](https://github.com/DESMG) security channel.
+If you believe this account has behaved unexpectedly or may have been compromised, please contact the [DESMG](https://github.com/DESMG) maintainers.
 
 ## Contact
 
@@ -31,4 +31,4 @@ For questions regarding actions performed by this account, please contact the [D
 
 ---
 
-*This account exists solely to support the DESMG organization and is not intended for personal use.*
+*This account exists solely to perform automated tasks for the DESMG organization and is not intended for personal interaction.*
