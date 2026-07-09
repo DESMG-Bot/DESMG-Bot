@@ -4,7 +4,7 @@ This account is a **Human Managed Bot Account** for the **[DESMG](https://github
 
 ## About
 
-This account is operated by the DESMG team to automate routine tasks across our projects while remaining under direct human supervision.
+This account is operated by the [DESMG](https://github.com/DESMG) organization to automate routine tasks across our projects while remaining under direct human supervision.
 
 Typical responsibilities include:
 
@@ -31,4 +31,4 @@ For questions regarding actions performed by this account, please contact the [D
 
 ---
 
-*This account exists solely to perform automated tasks for the DESMG organization and is not intended for personal interaction.*
+*This account exists solely to perform automated tasks for the [DESMG](https://github.com/DESMG) organization and is not intended for personal interaction.*
